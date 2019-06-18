@@ -6,13 +6,17 @@ import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 
 import java.util.List;
+import java.util.Random;
 
 public class Test {
     public static void main(String[] args) {
 
 //        addStudent();
 //        selectStudent();
-        getAllStudent();
+//        getAllStudent();
+        Random random = new Random();
+        int i = random.nextInt(3);
+        System.out.println("dangqian:"+i);
     }
 
     public static void selectStudent(){

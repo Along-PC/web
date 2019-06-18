@@ -5,13 +5,11 @@
 <web-app>
 
     <display-name>Archetype Created Web Application</display-name>
+
+    <!--为contextloaderlistener指定配置文件-->
     <context-param>
         <param-name>contextConfigLocation</param-name>
         <param-value>/WEB-INF/applicationContext.xml</param-value>
-    </context-param>
-    <context-param>
-        <param-name/>
-        <param-value/>
     </context-param>
 
     <listener>
@@ -21,6 +19,10 @@
     <servlet>
         <servlet-name>dispatcher</servlet-name>
         <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>/WEB-INF/dispatcher-servlet.xml</param-value>
+        </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>

@@ -27,11 +27,13 @@
         </environment>
     </environments>
 
-
     <mappers>
         <mapper resource="com/weimo/fighting/mapper/StudentMapper.xml"/>
         <mapper resource="com/weimo/fighting/one2one/mapper/EmployeeMapper.xml"/>
         <mapper resource="com/weimo/fighting/one2one/mapper/EmployeeSchoolMapper.xml"/>
+        <mapper class="com.weimo.fighting.dynamic.Mapper.StudentMapper"/>
+        <mapper class="com.weimo.fighting.shop.mapper.JokeMapper"/>
+        <mapper class="com.weimo.fighting.shop.mapper.UserMapper"/>
     </mappers>
 
 </configuration>
