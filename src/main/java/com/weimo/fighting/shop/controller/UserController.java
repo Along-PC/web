@@ -31,7 +31,7 @@ public class UserController {
             userBeanCommonBean.setStatus(-1);
         }else{
             userBeanCommonBean.setStatus(0);
-            userBeanCommonBean.setT(user);
+            userBeanCommonBean.setData(user);
         }
         Gson gson = new Gson();
         sqlSession.close();

@@ -34,6 +34,8 @@
         <mapper class="com.weimo.fighting.dynamic.Mapper.StudentMapper"/>
         <mapper class="com.weimo.fighting.shop.mapper.JokeMapper"/>
         <mapper class="com.weimo.fighting.shop.mapper.UserMapper"/>
+        <mapper class="com.weimo.fighting.shop.mapper.ImageUploadMapper"/>
+        <mapper class="com.weimo.fighting.shop.mapper.BusinessCardMapper"/>
     </mappers>
 
 </configuration>

@@ -21,11 +21,11 @@ public class CommonBean<T> {
         this.message = message;
     }
 
-    public T getT() {
+    public T getData() {
         return data;
     }
 
-    public void setT(T t) {
+    public void setData(T t) {
         this.data = t;
     }
 }

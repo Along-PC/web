@@ -47,7 +47,7 @@ public class JokeController {
         List<JokeBean> allJokeBean = mapper.getAllJokeBean();
         CommonBean<List<JokeBean>> listCommonBean = new CommonBean<>();
         listCommonBean.setStatus(0);
-        listCommonBean.setT(allJokeBean);
+        listCommonBean.setData(allJokeBean);
         Gson gson = new Gson();
         String jokes = gson.toJson(listCommonBean);
         return jokes;

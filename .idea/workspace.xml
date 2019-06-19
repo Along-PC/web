@@ -8,34 +8,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdb8f46b-6f06-42e9-85e3-e572150c2bbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/Mapper/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/model/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/WelcomController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/JokeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/JokeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/UserBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/BusinessCardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/ImageUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/BusinessCardMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/ImageUploadMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/BusinessCardBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/ImageUploadBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/c936dced-c384-4b99-bca7-cf400486937b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c936dced-c384-4b99-bca7-cf400486937b.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/model/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/model/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/model/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/model/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-properties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mybatis-properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis-properties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/weimo/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/weimo/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/weimo/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/weimo/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/weimo/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/weimo/WEB-INF/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,14 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/JokeBean.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c936dced-c384-4b99-bca7-cf400486937b/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="210" lean-forward="true" selection-start-line="207" selection-end-line="210" />
             </state>
           </provider>
         </entry>
@@ -102,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="100">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,66 +99,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/UserBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c936dced-c384-4b99-bca7-cf400486937b/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="151" selection-start-line="151" selection-end-line="151" selection-end-column="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-properties.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/weimo/table/business_card">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -201,15 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/AreaUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Practice.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/FirstController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/along.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/WeimoController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/along.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml.fxml" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml" />
@@ -230,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/mapper/EmployeeMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/model/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/Mapper/StudentMapper.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/dynamic/model/Run.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
@@ -238,17 +159,29 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/WelcomController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/JokeMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/model/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/95921cc7-4df8-4c7c-bcb0-c5eeabbceb61/console.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/JokeBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/Run.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/Userbean.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/UserBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/ImageUploadBean.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-properties.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/ImageUploadMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/BusinessCardbean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/BusinessCardmapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/BusinessCardController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/BusinessCardBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/BusinessCardMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/BusinessCardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/ImageUploadController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c936dced-c384-4b99-bca7-cf400486937b/console.sql" />
       </list>
     </option>
@@ -294,7 +227,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -352,6 +284,26 @@
               <item name="weimo_along" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fighting" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weimo_along" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weimo_along" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fighting" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weimo_along" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weimo_along" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -359,18 +311,32 @@
               <item name="weimo_along" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="weimo_along" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weimo_along" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="weimo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weimo_along" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weimo_along" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="weimo" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560766184929" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560927439918" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -379,15 +345,15 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/weimo/upload" />
       <recent name="$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/mapper" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes" />
       <recent name="$PROJECT_DIR$/src/main/java/com/weimo/fighting/mapper" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -619,13 +585,11 @@
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Run (1)" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.19" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Practice" />
@@ -671,11 +635,13 @@
       <workItem from="1560412633271" duration="2120000" />
       <workItem from="1560479871605" duration="507000" />
       <workItem from="1560735198785" duration="18237000" />
+      <workItem from="1560821019475" duration="6637000" />
+      <workItem from="1560907634823" duration="9700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108086000" />
+    <option name="totallyTimeSpent" value="124423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -690,7 +656,7 @@
     <frame x="20" y="43" width="1400" height="764" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49768874" visible="true" weight="0.20029455" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49768874" visible="true" weight="0.20618556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -700,7 +666,7 @@
       <window_info id="Web" order="7" sideWeight="0.50108933" side_tool="true" weight="0.22606775" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29121727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32357472" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40061632" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -714,17 +680,17 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.4899846" />
       <window_info anchor="bottom" id="Spring" order="15" weight="0.32973805" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="16" visible="true" weight="0.4083205" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.20250368" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.39137134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3468336" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.20324005" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.27393225" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.20250368" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -735,57 +701,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/along.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/along/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/StudentMapper.xml" />
-    <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/hrm/table/dept">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/hrm/table/employee_job">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/hrm/table/job">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/model/A.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/hrm/table/employee_school">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/hrm/table/employee_basic">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -918,13 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/EmployeeMapper.xml">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider" />
@@ -939,13 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/db/db">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2875">
@@ -953,24 +854,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -988,16 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="17" column="34" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/WelcomController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1049,13 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/one2one/mapper/EmployeeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1084,13 +954,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/JokeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -1111,57 +974,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/UserBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-properties.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/JokeBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="115">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1169,20 +984,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/UserBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="184">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.jar!/org/springframework/web/multipart/MultipartRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/ImageUploadBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/WelcomController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/ImageUploadMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/BusinessCardBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/mapper/BusinessCardMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/model/CommonBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/BusinessCardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/ImageUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="89" column="31" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/weimo/upload/ysc.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weimo/fighting/shop/controller/JokeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c936dced-c384-4b99-bca7-cf400486937b/schema/weimo/table/business_card">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c936dced-c384-4b99-bca7-cf400486937b/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="151" selection-start-line="151" selection-end-line="151" selection-end-column="99" />
+        <state relative-caret-position="324">
+          <caret line="210" lean-forward="true" selection-start-line="207" selection-end-line="210" />
         </state>
       </provider>
     </entry>
