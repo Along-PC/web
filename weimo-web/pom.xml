@@ -13,7 +13,7 @@
     <packaging>war</packaging>
 
     <name>weimo-web Maven Webapp</name>
-    <!-- FIXME change it to the project's website -->
+
     <url>http://www.example.com</url>
 
     <properties>
@@ -26,6 +26,11 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.weimo.home</groupId>
+            <artifactId>weimo-api</artifactId>
         </dependency>
     </dependencies>
 
