@@ -21,3 +21,4 @@
 *.zip 
 .idea/
 weimo-web/target/
+*.iml
