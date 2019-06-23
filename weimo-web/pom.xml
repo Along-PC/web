@@ -32,6 +32,11 @@
             <groupId>com.weimo.home</groupId>
             <artifactId>weimo-api</artifactId>
         </dependency>
+
+
+
+
+
     </dependencies>
 
     <build>
