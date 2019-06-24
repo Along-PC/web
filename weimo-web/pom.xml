@@ -33,7 +33,10 @@
             <artifactId>weimo-api</artifactId>
         </dependency>
 
-
+        <dependency>
+            <groupId>com.weimo.home</groupId>
+            <artifactId>weimo-biz</artifactId>
+        </dependency>
 
 
 

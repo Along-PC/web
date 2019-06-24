@@ -8,5 +8,25 @@
     <!--//自动扫描带注解的类-->
     <context:component-scan base-package="weimo"/>
 
+    <context:property-placeholder location="/WEB-INF/config.properties"/>
+    <!-- 指定数据库连接池 -->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" destroy-method="close">
+        <property name="driverClassName" value="${driver}"/>
+        <property name="url" value="${url}"/>
+        <property name="username" value="${username}"/>
+        <property name="password" value="${password}"/>
+    </bean>
+
+    <bean name="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource" />
+        <property name="typeAliasesPackage" value="com.project.spring_mybatis.beans"></property>
+        <property name="mapperLocations" value="weimo.*" />
+    </bean>
+    <!-- 扫描mapper配置文件的地址 -->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="weimo.*" />
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
+    </bean>
+
 
 </beans>
