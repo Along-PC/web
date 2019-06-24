@@ -1,18 +1,21 @@
 package weimo.user;
 
+import common.ResultDTO;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.HashMap;
-import java.util.Map;
 
 @RestController
 @RequestMapping("/user")
 public class UserApi {
 
-    @RequestMapping("/getUser.do")
-    public Map<String,String> getUser(){
-        return  new HashMap<>();
+    @Autowired
+    private UserService userService;
+
+    @RequestMapping("/login.do")
+    public ResultDTO getUser(){
+        userService.login(new UserVO());
+        return  new ResultDTO();
     }
 
 }

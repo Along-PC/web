@@ -1,15 +1,11 @@
-package user;
+package weimo.user;
 
 import lombok.Data;
 
 @Data
-public class UserDO {
-
-    private Integer id;
-
+public class UserVO {
     private String loginName;
 
     private String loginPassword;
-
 
 }

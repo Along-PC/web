@@ -1,4 +1,4 @@
-package user;
+package weimo.user;
 
 public interface UserService {
 
