@@ -22,3 +22,7 @@
 .idea/
 weimo-web/target/
 *.iml
+weimo-model/target/
+weimo-dal/target/
+weimo-api/target/
+weimo-biz/target/
