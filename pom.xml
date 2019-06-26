@@ -31,7 +31,6 @@
     <!-- 子项目引入的依赖此处全部进行规定，防止依赖冲突  -->
     <dependencyManagement>
 
-
         <dependencies>
 
             <dependency>
