@@ -1,6 +1,6 @@
-package com.weimo.fighting.shop.mapper;
+package weimo.dal.card;
 
-import com.weimo.fighting.shop.model.BusinessCardBean;
+import common.BusinessCardBean;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

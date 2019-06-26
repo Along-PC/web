@@ -1,6 +1,6 @@
-package com.weimo.fighting.shop.mapper;
+package weimo.dal.image;
 
-import com.weimo.fighting.shop.model.ImageUploadBean;
+import common.ImageUploadBean;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Result;
 import org.apache.ibatis.annotations.Results;
