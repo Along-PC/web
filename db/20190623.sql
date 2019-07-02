@@ -1,3 +1,5 @@
+create database weimo default character set utf8;
+
 create table SYS_USER
 (
     ID  INT  primary key auto_increment,
