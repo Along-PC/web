@@ -7,9 +7,9 @@
     <!--//自动扫描带注解的类-->
     <context:component-scan base-package="weimo"/>
     <!--//添加处理器-->
-    <mvc:default-servlet-handler />
+    <mvc:default-servlet-handler/>
     <!--//添加注解驱动-->
-    <mvc:annotation-driven />
+    <mvc:annotation-driven/>
 
     <mvc:interceptors>
         <mvc:interceptor>
@@ -18,7 +18,8 @@
         </mvc:interceptor>
     </mvc:interceptors>
 
-
+    <mvc:resources location="classpath:/META-INF/resources/" mapping="swagger-ui.html"/>
+    <mvc:resources location="classpath:/META-INF/resources/webjars/" mapping="/webjars/**"/>
 
     <!-- 配置ViewResolver视图解析器 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -27,7 +28,8 @@
     </bean>
 
     <!-- 避免IE执行AJAX时,返回JSON出现下载文件 -->
-    <bean id="mappingJacksonHttpMessageConverter" class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+    <bean id="mappingJacksonHttpMessageConverter"
+          class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
         <property name="supportedMediaTypes">
             <list>
                 <value>text/html;charset=UTF-8</value>
@@ -39,11 +41,11 @@
     <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
         <property name="messageConverters">
             <list>
-                <ref bean="mappingJacksonHttpMessageConverter" /><!-- json转换器 -->
+                <ref bean="mappingJacksonHttpMessageConverter"/><!-- json转换器 -->
             </list>
         </property>
     </bean>
-
+    <bean class="springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration" id="swagger2Config"/>
 
 </beans>
 
